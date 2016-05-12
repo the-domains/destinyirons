@@ -1,0 +1,28 @@
+name: destinyirons
+favicon: null
+layout_spectrum: 0.3277257501613349
+typography_spectrum: 0.9375820609275252
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5907397095579654
+  lightness: 0.09747885563410819
+  saturation: 0.6033213348127902
+  rhythmicContrast: 0.8370341637637466
+purpose: []
