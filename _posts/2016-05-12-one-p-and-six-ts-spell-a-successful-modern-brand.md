@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: One P and Six Ts Spell a Successful Modern Brand
-datePublished: '2016-05-12T21:22:45.658Z'
-dateModified: '2016-05-12T21:22:45.109Z'
+datePublished: '2016-05-12T21:24:00.802Z'
+dateModified: '2016-05-12T21:23:44.771Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-12-one-p-and-six-ts-spell-a-successful-modern-brand.md
@@ -16,7 +16,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: one-p-and-six-ts-spell-a-successful-modern-brand/index.html
 _type: Article
 
