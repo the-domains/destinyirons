@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: One P and Six Ts Spell a Successful Modern Brand
-datePublished: '2016-05-12T21:24:00.802Z'
-dateModified: '2016-05-12T21:23:44.771Z'
+datePublished: '2016-05-13T17:54:50.900Z'
+dateModified: '2016-05-13T17:54:47.027Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-12-one-p-and-six-ts-spell-a-successful-modern-brand.md
@@ -21,7 +21,7 @@ url: one-p-and-six-ts-spell-a-successful-modern-brand/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3e5ef37-6ef6-4378-b414-a8f62a126410.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee16d4c0-770d-4fb2-a1fd-5aab55b2feb8.jpg)
 
 One _P_ and Six _T_s Spell a Successful Modern Brand
 
@@ -52,3 +52,4 @@ A hook. Distill your idea into one catchy, visual tagline.
 7\. Tender
 
 Monetize by creating a PRODUCT or SERVICE that can give you PASSIVE INCOME. The idea must scale, must be true to your platform, must be essential for your community.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da24649a-39b6-4635-bfa7-4a6a73bfbd14.jpg)
